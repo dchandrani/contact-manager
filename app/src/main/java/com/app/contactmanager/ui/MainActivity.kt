@@ -1,7 +1,8 @@
-package com.app.contactmanager
+package com.app.contactmanager.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.app.contactmanager.R
 
 class MainActivity : AppCompatActivity() {
 
